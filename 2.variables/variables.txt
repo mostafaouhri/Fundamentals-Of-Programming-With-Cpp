@@ -1,0 +1,7 @@
+#009 - Variables Basic Knowledge
+#010 - Variables Naming Rules And Best Practices.mp4
+#011 - Variables Advanced Knowledge.mp4
+#012 - Variables Scope.mp4
+#013 - Variables - Constant Variable
+#014 - Calculate Your Age Application
+#015 - Escape Sequences Characters
