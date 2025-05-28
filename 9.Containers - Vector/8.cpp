@@ -20,30 +20,5 @@ int main()
   // Write Line Here
     advance(iter,-3);
   cout << *iter << "\n"; // 20
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     return 0;
 }

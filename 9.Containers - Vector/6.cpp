@@ -28,28 +28,5 @@ countone=count(numbers.begin(),numbers.end(),check);
 
   cout << countone << "\n"; // 3
   cout << counttwo << "\n"; // 3
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     return 0;
 }

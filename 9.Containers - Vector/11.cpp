@@ -24,29 +24,5 @@ int main()
 
   cout << floats.at(0) << "\n"; // 100.50
   cout << floats.at(99) << "\n"; // 100.50
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     return 0;
 }

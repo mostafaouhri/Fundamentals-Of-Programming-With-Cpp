@@ -18,29 +18,5 @@ int main()
   nums.erase(nums.begin(),nums.begin()+sizeof(nums.front()));
 
   cout << *it << "\n"; // 50
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     return 0;
 }

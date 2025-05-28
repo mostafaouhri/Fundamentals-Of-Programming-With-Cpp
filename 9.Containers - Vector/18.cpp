@@ -18,8 +18,6 @@ for (int n : nums)
     cout<<n<<endl;
 
 }
-
-
 // // Output Needed
 // 10
 // 20
@@ -29,28 +27,5 @@ for (int n : nums)
 // 60
 // 70
 // 80
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     return 0;
 }

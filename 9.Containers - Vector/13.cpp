@@ -22,30 +22,5 @@ int main()
 
   cout << add(numbersone) << "\n"; // 60
   cout << add(numberstwo) << "\n"; // 45
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     return 0;
 }

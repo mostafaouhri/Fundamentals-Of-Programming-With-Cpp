@@ -19,31 +19,5 @@ int main()
   cout << * it << "\n"; // 5.5
   cout << * last << "\n"; // 80
   cout << doubles.at(0) << "\n"; // 10
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     return 0;
 }
