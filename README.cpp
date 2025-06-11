@@ -11,10 +11,10 @@ int main()
       // I Have studied Thanks .
 
       string yes_no;
-      cout << "Do You Love C++ Or No ? \n";
+      cout << "Do You Love C++ (yes Or No) ? \n";
       cin >> yes_no;
 
-      if (yes_no == "yes" || yes_no == "Yes" || yes_no == "YES" || yes_no == "1")
+      if (yes_no == "yes" || yes_no == "1")
       {
             cout << "intresting , your Are Like Me\n"
                  << "It's low Level Langauge Fast And Speed \n";
