@@ -1,11 +1,11 @@
 # 🧠 Fundamentals of Programming with C++
 
-Welcome to my C++ programming fundamentals project!  
-This repository contains beginner-level C++ programs that demonstrate core programming concepts, built as part of my learning journey.
+Welcome to My **C++** programming fundamentals project!  
+This repository contains Fundamentals of Programming  With C++ that demonstrate core programming concepts, built as part of my learning journey.
 
 ---
 
-## 📌 Project Goals
+## 📌 Project Goals 
 
 - Apply fundamental programming concepts using C++
 - Practice writing clean, well-structured, and readable code
@@ -27,7 +27,7 @@ The repository includes C++ programs that cover:
 
 ---
 
-## 💡 Sample File
+## 💡 Simple File
 
 Here's an example from one of the programs:
 
